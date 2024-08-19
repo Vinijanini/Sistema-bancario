@@ -1,3 +1,5 @@
+    Execute o programa com um Idle
+    
     Conexão com o Banco de Dados:
         O código se conecta a um banco de dados SQLite chamado banco.db.
         Cria uma tabela chamada clientes se ela não existir, com campos para id, nome, cpf, saldo e senha.
